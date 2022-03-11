@@ -1,6 +1,6 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "citation": "Sabina Vlad, Jodey Peyton, Siobhan Edney & Sofie Meeus. 2022. Species associations manually extracted from literature of Central American Iguanas.",
+  "citation": "Sabina Vlad, Jodey Peyton, Siobhan Edney & Sofie Meeus. 2022. Interactions data on *Iguana iguana* and other taxa from the Cayman Islands.",
   "licence": "CC0",
   "version": "1.0",
   "deprecated": false
