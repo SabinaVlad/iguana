@@ -1,4 +1,4 @@
-[![GloBI review by Elton](https://github.com/qgroom/iguana/actions/workflows/review.yml/badge.svg)](https://github.com/qgroom/iguana/actions) [![Build Status](https://app.travis-ci.com/qgroom/iguana.svg)](https://app.travis-ci.com/qgroom/iguana) [![GloBI](https://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:qgroom/iguana)](https://globalbioticinteractions.org/?accordingTo=globi:qgroom/iguana) 
+[![GloBI review by Elton](https://github.com/SabinaVlad/iguana/actions/workflows/review.yml/badge.svg)](https://github.com/SabinaVlad/iguana/actions) [![Build Status](https://app.travis-ci.com/SabinaVlad/iguana.svg)](https://app.travis-ci.com/SabinaVlad/iguana) [![GloBI](https://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:SabinaVlad/iguana)](https://globalbioticinteractions.org/?accordingTo=globi:SabinaVlad/iguana) 
 
 
 ## Interactions data on *Iguana iguana* and other taxa from the Cayman Islands
